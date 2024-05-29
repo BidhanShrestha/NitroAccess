@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>General Documenation</title>
+</head>
+
+
+    <body>
+        <h2>Foundation of management</h2>
+        <p>HTML images are defined with img tag:</p>
+        
+        <img src="w3schools.jpg" alt="w3schools.com" width="106" height="143">
+
+    </body>
+</html>    
+
